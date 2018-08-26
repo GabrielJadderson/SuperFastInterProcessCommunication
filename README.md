@@ -1,3 +1,3 @@
 # SuperFastInterProcessCommunication
 
-IPC over shared memory.
+IPC with shared memory.
